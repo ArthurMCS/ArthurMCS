@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arthur Moreira
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Node.js
 
 ##
 
