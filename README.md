@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Olá, sou Arthur Moreira.<br><br>Desenvolvedor Full-stack, de Vitória - ES. <br><br>Com experiência  em TypeScript, React, Node.JS, React Native, Next.JS, Sass, tailwind, <br>Chakra ui, Styled-components, Prisma, Express, JWT, Sequelize, Redux, React Testing<br>Library, Python, APIs REST/RESTful, Mysql, MongoDB, dentre outras tecnologias.<br><br>Cursando Análise e desenvolvimento de sistemas na Multivix.<br><br>Meu portfólio: https://arthurmoreira.vercel.app/
+Olá, sou Arthur Moreira.<br><br>Desenvolvedor Full-stack, de Vitória - ES. <br><br>Com experiência  em TypeScript, React, Node.JS, Nest.js, React Native, Next.JS, Sass, tailwind, <br>Chakra ui, Styled-components, Prisma, Express, JWT, Sequelize, Redux, React Testing<br>Library, Python, APIs REST/RESTful, Mysql, MongoDB, dentre outras tecnologias.<br><br>Cursando Análise e desenvolvimento de sistemas na Multivix.<br><br>Meu portfólio: https://arthurmoreira.vercel.app/
 
 
 ## 🌐 Linkedin:
